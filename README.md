@@ -1,4 +1,4 @@
-Primeiro projeto Java Web no Spring Boot
+Primeiro projeto Java Web no Spring Boot - Preparação Semana Spring React - Dev Superior
 
 Contruindo uma API REST com banco de dados usando Java e Spring Boot
 
